@@ -1,0 +1,21 @@
+id,fecha,producto,cantidad,precio_unitario
+1,2026-01-05,Auriculares Bluetooth,3,45000
+2,2026-01-08,Parlante Portatil,2,85000
+3,2026-01-15,Teclado Mecanico,4,60000
+4,2026-01-22,Mouse Gamer,5,35000
+5,2026-02-03,Auriculares Bluetooth,2,45000
+6,2026-02-10,Monitor 24 pulgadas,1,180000
+7,2026-02-14,Mouse Gamer,6,35000
+8,2026-02-21,Parlante Portatil,3,85000
+9,2026-03-02,Teclado Mecanico,2,60000
+10,2026-03-09,Monitor 24 pulgadas,2,180000
+11,2026-03-17,Auriculares Bluetooth,4,45000
+12,2026-03-26,Mouse Gamer,3,35000
+13,2026-04-04,Parlante Portatil,2,85000
+14,2026-04-11,Teclado Mecanico,5,60000
+15,2026-04-20,Monitor 24 pulgadas,1,180000
+16,2026-05-06,Auriculares Bluetooth,5,45000
+17,2026-05-13,Mouse Gamer,4,35000
+18,2026-05-19,Parlante Portatil,1,85000
+19,2026-06-01,Teclado Mecanico,3,60000
+20,2026-06-12,Monitor 24 pulgadas,2,180000
